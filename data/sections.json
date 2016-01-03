@@ -1,0 +1,37 @@
+{
+	"data":{
+		"sections":[
+		{
+			"id": 1,
+			"title": "terrific new",
+			"text": "Titulo de la noticia del articulo",
+			"image": "http://pipsum.com/400x200.jpg",
+			"article": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, quidem, veritatis. Quae nihil reiciendis autem illo officiis voluptatem, ab, maiores suscipit. Obcaecati, nisi sed ut ab molestiae minima rem vero!"
+		},
+		{
+			"id": 2,
+			"title": "terrific new",
+			"text": "Titulo de la noticia del articulo",
+			"image": "http://pipsum.com/400x200.jpg",
+			"article": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, quidem, veritatis. Quae nihil reiciendis autem illo officiis voluptatem, ab, maiores suscipit. Obcaecati, nisi sed ut ab molestiae minima rem vero!"
+		},
+		{
+			"id": 3,
+			"title": "terrific new",
+			"text": "Titulo de la noticia del articulo",
+			"image": "http://pipsum.com/400x200.jpg",
+			"article": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, quidem, veritatis. Quae nihil reiciendis autem illo officiis voluptatem, ab, maiores suscipit. Obcaecati, nisi sed ut ab molestiae minima rem vero!"
+		}
+		],
+		"menu": [
+			{"id": 1, "title": "awesome news"},
+			{"id": 2, "title": "awesome news"},
+			{"id": 3, "title": "awesome news"},
+			{"id": 4, "title": "awesome news"},
+			{"id": 5, "title": "awesome news"},
+			{"id": 6, "title": "awesome news"},
+			{"id": 7, "title": "awesome news"},
+			{"id": 8, "title": "awesome news"}
+		]
+	}
+}
